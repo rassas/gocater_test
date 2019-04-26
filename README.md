@@ -13,3 +13,8 @@ git clone git@github.com:rassas/gocater_test.git
 ```
 ruby main.rb
 ```
+__________________________________________
+
+Here's an exemple of output for this program :
+
+![alt text](./assets/output-exemple.png)
